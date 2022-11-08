@@ -11,7 +11,7 @@ class studentas{
     int egzaminas;
     double vidurkis;
     public:
-    void output{
+    void input{
         cout << "Iveskite varda" << endl;
         cin >> vardas;
         cout << "Iveskite pavarde" << endl;
